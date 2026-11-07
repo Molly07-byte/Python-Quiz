@@ -28,6 +28,7 @@ This project is an interactive quiz application developed using Python in Google
 
 **Project Demo**
 Google Colab: https://colab.research.google.com/github/Molly07-byte/Python-Quiz/blob/main/QuizBloom.ipynb
+Demo Video: https://drive.google.com/file/d/10aLmg5PGIPPINCTgDy7zNwGvpxKjGDer/view?usp=sharing
 
 **Author**
 Molly Mishra
